@@ -19,13 +19,19 @@ header {
     padding-bottom: 0%;
 }
 
-img {
-    height: 55px;
+header img.logo {
+    height: 45px;
 }
+
+
 
 main {
     padding-top: 50px;
     padding-bottom: 45px;
+}
+
+hgroup {
+    margin-bottom: 25px;
 }
 
 .author-date {
@@ -33,9 +39,13 @@ main {
 }
 
 .author-date .author {
-    color: #4eaff4 
+    color: #4eaff4
 }
 
 .author-date .date {
     font-size: 12px;
+}
+
+.article-image figcaption {
+    font-size: 14px;
 }
