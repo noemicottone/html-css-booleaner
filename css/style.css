@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+}
+
+
 body {
     margin: 0;
 }
@@ -5,6 +10,7 @@ body {
 .container {
     padding: 0 15px;
 }
+
 
 header {
     background-color: #9cd6f4;
@@ -15,4 +21,21 @@ header {
 
 img {
     height: 55px;
+}
+
+main {
+    padding-top: 50px;
+    padding-bottom: 45px;
+}
+
+.author-date {
+    color: grey;
+}
+
+.author-date .author {
+    color: #4eaff4 
+}
+
+.author-date .date {
+    font-size: 12px;
 }
