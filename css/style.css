@@ -40,6 +40,10 @@ main {
     padding-left: 15px;
 }
 
+table {
+    text-align: left;
+}
+
 .author-date {
     color: grey;
 }
@@ -58,4 +62,17 @@ main {
 
 #list .article-list {
     list-style-position: inside;
+}
+
+#table-content thead {
+    background-color: #7fa6fb;
+    color: #ffff;
+}
+
+#table-content tr.odd {
+    background-color: #dfe5f2;
+}
+
+#table-content thead .content-3 {
+    width: 50%;
 }
