@@ -2,6 +2,14 @@
     margin: 0;
 }
 
+.mb-25 {
+    margin-bottom: 25px;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: normal;
+}
 
 body {
     margin: 0;
@@ -10,6 +18,7 @@ body {
 .container {
     padding: 0 15px;
 }
+
 
 
 header {
@@ -28,10 +37,7 @@ header img.logo {
 main {
     padding-top: 50px;
     padding-bottom: 45px;
-}
-
-hgroup {
-    margin-bottom: 25px;
+    padding-left: 15px;
 }
 
 .author-date {
@@ -48,4 +54,8 @@ hgroup {
 
 .article-image figcaption {
     font-size: 14px;
+}
+
+#list .article-list {
+    list-style-position: inside;
 }
