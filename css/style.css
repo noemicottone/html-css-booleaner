@@ -76,3 +76,14 @@ table {
 #table-content thead .content-3 {
     width: 50%;
 }
+
+/*********
+Footer Style
+**********/
+
+footer {
+    background-color: #313a6b;
+    color: #ffff;
+    text-align: center;
+    padding: 20px 0;
+}
