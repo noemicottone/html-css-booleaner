@@ -5,6 +5,12 @@ header {
     height: 103px;
 }
 
+thead {
+    text-align: left;
+    background-color: #20a9e5;
+    color: white;
+}
+
 
 .logo {
     position: absolute;
@@ -24,4 +30,20 @@ header {
 .imgdescription {
     font-size: small;
     line-height: 0;
+}
+
+.evident {
+    background-color: yellow;
+}
+
+.space {
+    width: 200px;
+}
+
+.morespace {
+    width: 500px;
+}
+
+.lightcolor {
+    background-color: #b1e5f2;
 }
