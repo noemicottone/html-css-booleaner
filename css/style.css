@@ -5,9 +5,18 @@ header {
     height: 103px;
 }
 
+
 .logo {
     position: absolute;
     top: 40px;
     width: 207px;
     height: 49px;
+}
+
+.subtitle {
+    color: #808080;
+}
+
+.author {
+    color: #20a9e5;
 }
