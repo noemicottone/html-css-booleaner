@@ -20,3 +20,8 @@ header {
 .author {
     color: #20a9e5;
 }
+
+.imgdescription {
+    font-size: small;
+    line-height: 0;
+}
